@@ -207,7 +207,7 @@ body {
 
 @media (max-width: 480px) {
     .controls {
-        bottom: 10px;
+        bottom: 30px;
     }
     
     .drum-selector, .slider-and-controls {
